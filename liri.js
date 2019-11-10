@@ -66,10 +66,13 @@ let bandsInTownArtistEvent = () => {
         });
     });
 };
-let movieURL = "http://www.omdbapi.com/?apikey=trilogy&s" + userInput();
+let movieURL = "http://www.omdbapi.com/?apikey=trilogy&t=" + userInput()+"&plot=full";
 let movieInfo = () => {
     axios.get(movieURL).then(function (response) {
-        console.log(stringify(response, null, 2));
+        let movieInfo = response.data;
+        // console.log(stringify(movieInfo, null, 2));
+        let movieResult = `\nMovie Title: ${ movieInfo.Title }`;
+        LOGIt(movieResult);
     })
 };
 let getrandomText = () => {
