@@ -1,9 +1,641 @@
-
--------------------
-Searched for : "Infinity war" in "movie-this" 
--------------------
+Entered Command: "node liri.js concert-this mal hall"
+---------------------------------------
+---------------------------------------
+Searched for : "Mal hall" in "concert-this" 
+---------------------------------------
+*******************
+ Result(s) 
+*******************
+Band info-------
+Venue: Technically Not Stalking Tour
+Location: Columbia,MO
+Event Date: 11/12/2019
+---------------------------------------
+Band info-------
+Venue: Technically Not Stalking Tour
+Location: Oklahoma City,OK
+Event Date: 11/14/2019
+---------------------------------------
+Band info-------
+Venue: Technically Not Stalking Tour
+Location: Des Moines,IA
+Event Date: 11/16/2019
+---------------------------------------
+Band info-------
+Venue: Paramount Theatre
+Location: Denver,CO
+Event Date: 11/30/2019
+---------------------------------------
+Band info-------
+Venue: Paramount Theatre
+Location: Denver,CO
+Event Date: 11/30/2019
+---------------------------------------
+Band info-------
+Venue: Technically Not Stalking Tour
+Location: Wichita,KS
+Event Date: 11/15/2019
+---------------------------------------
+Band info-------
+Venue: Technically Not Stalking Tour
+Location: Evansville,IN
+Event Date: 11/17/2019
+---------------------------------------
+Band info-------
+Venue: Paramount Theatre
+Location: Denver,CO
+Event Date: 11/29/2019
+---------------------------------------
+Entered Command: "node liri.js concert-this"
+---------------------------------------
+---------------------------------------
+Searched for : "Celine Dion" in "concert-this" 
+---------------------------------------
+*******************
+ Result(s) 
+*******************
+Band info-------
+Venue: Bell Centre
+Location: Montreal,
+Event Date: 11/18/2019
+---------------------------------------
+Band info-------
+Venue: Bell Centre
+Location: Montreal,
+Event Date: 11/19/2019
+---------------------------------------
+Band info-------
+Venue: Bell Centre
+Location: Montreal,
+Event Date: 11/21/2019
+---------------------------------------
+Band info-------
+Venue: Bell Centre
+Location: Montreal,
+Event Date: 11/22/2019
+---------------------------------------
+Band info-------
+Venue: United Center
+Location: Chicago,IL
+Event Date: 12/01/2019
+---------------------------------------
+Band info-------
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis,IN
+Event Date: 12/03/2019
+---------------------------------------
+Band info-------
+Venue: KeyBank Center
+Location: Buffalo,NY
+Event Date: 12/05/2019
+---------------------------------------
+Band info-------
+Venue: Times Union Center
+Location: Albany,NY
+Event Date: 12/07/2019
+---------------------------------------
+Band info-------
+Venue: Scotiabank Arena
+Location: Toronto,
+Event Date: 12/09/2019
+---------------------------------------
+Band info-------
+Venue: Scotiabank Arena
+Location: Toronto,
+Event Date: 12/10/2019
+---------------------------------------
+Band info-------
+Venue: TD Garden
+Location: Boston,MA
+Event Date: 12/13/2019
+---------------------------------------
+Band info-------
+Venue: TD Garden
+Location: Boston,MA
+Event Date: 12/14/2019
+---------------------------------------
+Band info-------
+Venue: VyStar Veterans Memorial Arena
+Location: Jacksonville,FL
+Event Date: 01/08/2020
+---------------------------------------
+Band info-------
+Venue: State Farm Arena
+Location: Atlanta,GA
+Event Date: 01/11/2020
+---------------------------------------
+Band info-------
+Venue: Bridgestone Arena
+Location: Nashville,TN
+Event Date: 01/13/2020
+---------------------------------------
+Band info-------
+Venue: Amalie Arena
+Location: Tampa,FL
+Event Date: 01/15/2020
+---------------------------------------
+Band info-------
+Venue: AmericanAirlines Arena
+Location: Miami,FL
+Event Date: 01/17/2020
+---------------------------------------
+Band info-------
+Venue: AmericanAirlines Arena
+Location: Miami,FL
+Event Date: 01/18/2020
+---------------------------------------
+Band info-------
+Venue: Spectrum Center
+Location: Charlotte,NC
+Event Date: 01/21/2020
+---------------------------------------
+Band info-------
+Venue: AT&T Center
+Location: San Antonio,TX
+Event Date: 01/30/2020
+---------------------------------------
+Band info-------
+Venue: Toyota Center
+Location: Houston,TX
+Event Date: 02/01/2020
+---------------------------------------
+Band info-------
+Venue: Smoothie King Center
+Location: New Orleans,LA
+Event Date: 02/07/2020
+---------------------------------------
+Band info-------
+Venue: American Airlines Center
+Location: Dallas,TX
+Event Date: 02/03/2020
+---------------------------------------
+Band info-------
+Venue: FedExForum
+Location: Memphis,TN
+Event Date: 02/09/2020
+---------------------------------------
+Band info-------
+Venue: BOK Center
+Location: Tulsa,OK
+Event Date: 02/05/2020
+---------------------------------------
+Band info-------
+Venue: PNC Arena
+Location: Raleigh,NC
+Event Date: 02/11/2020
+---------------------------------------
+Band info-------
+Venue: Bell Centre
+Location: Montreal,
+Event Date: 02/18/2020
+---------------------------------------
+Band info-------
+Venue: Bell Centre
+Location: Montreal,
+Event Date: 02/19/2020
+---------------------------------------
+Band info-------
+Venue: Boardwalk Hall
+Location: Atlantic City,NJ
+Event Date: 02/22/2020
+---------------------------------------
+Band info-------
+Venue: Royal Farms Arena (formerly Baltimore Arena)
+Location: Baltimore,MD
+Event Date: 02/24/2020
+---------------------------------------
+Band info-------
+Venue: Wells Fargo Center
+Location: Philadelphia,PA
+Event Date: 02/26/2020
+---------------------------------------
+Band info-------
+Venue: Barclays Center
+Location: Brooklyn,NY
+Event Date: 02/28/2020
+---------------------------------------
+Band info-------
+Venue: Barclays Center
+Location: Brooklyn,NY
+Event Date: 02/29/2020
+---------------------------------------
+Band info-------
+Venue: Nassau Veterans Memorial Coliseum
+Location: Uniondale,NY
+Event Date: 03/03/2020
+---------------------------------------
+Band info-------
+Venue: Barclays Center
+Location: Brooklyn,NY
+Event Date: 03/05/2020
+---------------------------------------
+Band info-------
+Venue: Prudential Center
+Location: Newark,NJ
+Event Date: 03/07/2020
+---------------------------------------
+Band info-------
+Venue: Prudential Center
+Location: Newark,NJ
+Event Date: 03/08/2020
+---------------------------------------
+Band info-------
+Venue: Capital One Arena
+Location: Washington,DC
+Event Date: 03/11/2020
+---------------------------------------
+Band info-------
+Venue: PPG Paints Arena
+Location: Pittsburgh,PA
+Event Date: 03/13/2020
+---------------------------------------
+Band info-------
+Venue: Pepsi Center
+Location: Denver,CO
+Event Date: 03/24/2020
+---------------------------------------
+Band info-------
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City,UT
+Event Date: 03/26/2020
+---------------------------------------
+Band info-------
+Venue: Gila River Arena
+Location: Glendale,AZ
+Event Date: 03/29/2020
+---------------------------------------
+Band info-------
+Venue: Pechanga Arena San Diego
+Location: San Diego,CA
+Event Date: 03/31/2020
+---------------------------------------
+Band info-------
+Venue: Staples Center
+Location: Los Angeles,CA
+Event Date: 04/02/2020
+---------------------------------------
+Band info-------
+Venue: Staples Center
+Location: Los Angeles,CA
+Event Date: 04/03/2020
+---------------------------------------
+Band info-------
+Venue: Golden 1 Center
+Location: Sacramento,CA
+Event Date: 04/07/2020
+---------------------------------------
+Band info-------
+Venue: Oakland Arena
+Location: Oakland,CA
+Event Date: 04/09/2020
+---------------------------------------
+Band info-------
+Venue: Chase Center
+Location: San Francisco,CA
+Event Date: 04/10/2020
+---------------------------------------
+Band info-------
+Venue: Chase Center
+Location: San Francisco,CA
+Event Date: 04/11/2020
+---------------------------------------
+Band info-------
+Venue: Moda Center
+Location: Portland,OR
+Event Date: 04/13/2020
+---------------------------------------
+Band info-------
+Venue: Tacoma Dome
+Location: Tacoma,WA
+Event Date: 04/15/2020
+---------------------------------------
+Band info-------
+Venue: Rogers Arena
+Location: Vancouver,
+Event Date: 04/17/2020
+---------------------------------------
+Band info-------
+Venue: Rogers Arena
+Location: Vancouver,
+Event Date: 04/18/2020
+---------------------------------------
+Band info-------
+Venue: Rogers Place
+Location: Edmonton,
+Event Date: 04/21/2020
+---------------------------------------
+Band info-------
+Venue: Rogers Place
+Location: Edmonton,
+Event Date: 04/22/2020
+---------------------------------------
+Band info-------
+Venue: Sasktel Centre
+Location: Saskatoon,
+Event Date: 04/25/2020
+---------------------------------------
+Band info-------
+Venue: Bell MTS Place
+Location: Winnipeg,
+Event Date: 04/27/2020
+---------------------------------------
+Band info-------
+Venue: O2 Arena
+Location: Prague,
+Event Date: 05/21/2020
+---------------------------------------
+Band info-------
+Venue: Atlas Arena
+Location: Łódź,
+Event Date: 05/23/2020
+---------------------------------------
+Band info-------
+Venue: Tauron Arena Krakow
+Location: Kraków,
+Event Date: 05/25/2020
+---------------------------------------
+Band info-------
+Venue: Sportpaleis
+Location: Antwerpen - Merksem,
+Event Date: 05/30/2020
+---------------------------------------
+Band info-------
+Venue: Sportpaleis
+Location: Antwerpen - Merksem,
+Event Date: 05/28/2020
+---------------------------------------
+Band info-------
+Venue: Hallenstadion
+Location: Zürich,
+Event Date: 06/03/2020
+---------------------------------------
+Band info-------
+Venue: Hallenstadion
+Location: Zürich,
+Event Date: 06/02/2020
+---------------------------------------
+Band info-------
+Venue: ARENA ZAGREB
+Location: Zagreb,
+Event Date: 06/05/2020
+---------------------------------------
+Band info-------
+Venue: Papp Laszlo Arena
+Location: Budapest,
+Event Date: 06/07/2020
+---------------------------------------
+Band info-------
+Venue: Ziggo Dome
+Location: Amsterdam,
+Event Date: 06/10/2020
+---------------------------------------
+Band info-------
+Venue: Ziggo Dome
+Location: Amsterdam,
+Event Date: 06/12/2020
+---------------------------------------
+Band info-------
+Venue: Ziggo Dome
+Location: Amsterdam,
+Event Date: 06/13/2020
+---------------------------------------
+Band info-------
+Venue: Wiener Stadthalle - Halle D
+Location: Wien,
+Event Date: 06/15/2020
+---------------------------------------
+Band info-------
+Venue: Kleine Olympiahalle München
+Location: München,
+Event Date: 06/17/2020
+---------------------------------------
+Band info-------
+Venue: SAP Arena
+Location: Mannheim,
+Event Date: 06/19/2020
+---------------------------------------
+Band info-------
+Venue: Lanxess Arena
+Location: Köln,
+Event Date: 06/21/2020
+---------------------------------------
+Band info-------
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg,
+Event Date: 06/22/2020
+---------------------------------------
+Band info-------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre,
+Event Date: 06/26/2020
+---------------------------------------
+Band info-------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre,
+Event Date: 06/27/2020
+---------------------------------------
+Band info-------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre,
+Event Date: 06/30/2020
+---------------------------------------
+Band info-------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre,
+Event Date: 07/01/2020
+---------------------------------------
+Band info-------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre,
+Event Date: 07/03/2020
+---------------------------------------
+Band info-------
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre,
+Event Date: 07/04/2020
+---------------------------------------
+Band info-------
+Venue: Plaine De L'asse
+Location: Nyon,
+Event Date: 07/20/2020
+---------------------------------------
+Band info-------
+Venue: Waldbühne Berlin
+Location: Berlin,
+Event Date: 07/22/2020
+---------------------------------------
+Band info-------
+Venue: Mura di Lucca - Viale Carducci
+Location: Lucca,
+Event Date: 07/25/2020
+---------------------------------------
+Band info-------
+Venue: National Stadium Bukarest
+Location: Bucharest,
+Event Date: 07/29/2020
+---------------------------------------
+Band info-------
+Venue: Hartwall Arena
+Location: Helsinki,
+Event Date: 08/24/2020
+---------------------------------------
+Band info-------
+Venue: Hartwall Arena
+Location: Helsinki,
+Event Date: 08/25/2020
+---------------------------------------
+Band info-------
+Venue: Telenor Arena
+Location: Fornebu,
+Event Date: 08/28/2020
+---------------------------------------
+Band info-------
+Venue: Telenor Arena
+Location: Fornebu,
+Event Date: 08/29/2020
+---------------------------------------
+Band info-------
+Venue: Royal Arena
+Location: København S,
+Event Date: 08/31/2020
+---------------------------------------
+Band info-------
+Venue: Royal Arena
+Location: København S,
+Event Date: 09/01/2020
+---------------------------------------
+Band info-------
+Venue: Manchester Arena
+Location: Manchester,
+Event Date: 09/04/2020
+---------------------------------------
+Band info-------
+Venue: Manchester Arena
+Location: Manchester,
+Event Date: 09/05/2020
+---------------------------------------
+Band info-------
+Venue: Arena Birmingham
+Location: Birmingham,
+Event Date: 09/08/2020
+---------------------------------------
+Band info-------
+Venue: Arena Birmingham
+Location: Birmingham,
+Event Date: 09/09/2020
+---------------------------------------
+Band info-------
+Venue: The SSE Hydro
+Location: Glasgow,
+Event Date: 09/11/2020
+---------------------------------------
+Band info-------
+Venue: The SSE Hydro
+Location: Glasgow,
+Event Date: 09/12/2020
+---------------------------------------
+Band info-------
+Venue: 3Arena
+Location: Dublin,
+Event Date: 09/14/2020
+---------------------------------------
+Band info-------
+Venue: 3Arena
+Location: Dublin,
+Event Date: 09/15/2020
+---------------------------------------
+Band info-------
+Venue: The O2
+Location: London,
+Event Date: 09/17/2020
+---------------------------------------
+Band info-------
+Venue: The O2
+Location: London,
+Event Date: 09/18/2020
+---------------------------------------
+Entered Command: "node liri.js spotify-this-song tere mast mast"
+---------------------------------------
+---------------------------------------
+Searched for : "Tere mast mast" in "spotify-this-song" 
+---------------------------------------
+*******************
+ Result(s) 
+*******************
+Song Info---------
+Artist Name: Rahat Fateh Ali Khan
+The Song Name: Tere Mast Mast Do Nain (From "Dabangg")
+Preview Link: https://p.scdn.co/mp3-preview/c554fcd6afb94d6b20fceef12df9b3b07405a08a?cid=54437109598841f79676322b4f4d05af
+Album Name: Best Of Shreya Ghoshal
+---------------------------------------
+Entered Command: "node liri.js spotify-this-song"
+---------------------------------------
+---------------------------------------
+Searched for : ""The Sign" by Ace of Base" in "spotify-this-song" 
+---------------------------------------
+*******************
+ Result(s) 
+*******************
+Song Info---------
+Artist Name: Karaoke Box
+The Song Name: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+Preview Link: https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=54437109598841f79676322b4f4d05af
+Album Name: Karaoke Box: Reggae Greatest Hits
+---------------------------------------
+Entered Command: "node liri.js movie-this avengers"
+---------------------------------------
+---------------------------------------
+Searched for : "Avengers" in "movie-this" 
+---------------------------------------
 *******************
  Result(s) 
 *******************
 
-Movie Title: Avengers: Infinity War
+Movie Info------
+Movie Title: The Avengers
+Released Year: 2012
+IMDB Rating: 8.0
+Rotten Tomatoes Ratings: 8.0/10
+Country: USA
+Language: English, Russian, Hindi
+Plot: Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+---------------------------------------
+Entered Command: "node liri.js movie-this"
+---------------------------------------
+---------------------------------------
+Searched for : "mr.nobody" in "movie-this" 
+---------------------------------------
+*******************
+ Result(s) 
+*******************
+
+Movie Info------
+Movie Title: Mr. Nobody
+Released Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Ratings: 7.8/10
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------------------------------------
+Entered Command: "node liri.js do-what-it-says"
+---------------------------------------
+**Because you searched Do-what-it-Says, it will read data from random.txt and get you some results!
+Random.text has "Parameter: spotify-this-song" and "searched term is: "I Want it That Way""
+---------------------------------------
+---------------------------------------
+Searched for : ""I Want it That Way"" in "spotify-this-song" 
+---------------------------------------
+*******************
+ Result(s) 
+*******************
+Song Info---------
+Artist Name: Backstreet Boys
+The Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=54437109598841f79676322b4f4d05af
+Album Name: The Hits--Chapter One
+---------------------------------------
+Entered Command: "node liri.js "
+---------------------------------------
