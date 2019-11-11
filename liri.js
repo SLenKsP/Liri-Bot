@@ -74,7 +74,7 @@ let bandsInTownArtistEvent = () => {
             // if (eventRegion === "KS" || eventRegion === "MO")
             // {
 
-            var bandsSearchResult = `Band info-------\nVenue: ${ item.venue.name }\nLocation: ${ item.venue.city },${ item.venue.region }\nEvent Date: ${ moment(item.datetime).format('L') }\n${ line }\n`
+            var bandsSearchResult = `Band info-------\nVenue: ${ item.venue.name }\nLocation: ${ item.venue.city },${ item.venue.region },${item.venue.country}\nEvent Date: ${ moment(item.datetime).format('L') }, ${moment(item.datetime).format("LT")}\n${ line }\n`
             LOGIt(bandsSearchResult);
             // }
         });
