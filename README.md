@@ -24,10 +24,22 @@ This is Liri Bot Project which allows user to get Movie, Spotify and Bands in th
     ![concert-this](./images/concert-this.png)
 - `concert-this we the kings`
 
-    ![concert-this we the kings](./images/concert-this we the kings.png)
+    ![concert-this we the kings](./images/concert-this_we_the_kings.png)
 - `spotify-this -song`
 
     ![spotify-this-song](./images/spotify-this-song.png)
 - `spotify-this-song tere mast mast
     
-    ![spotify-this-song tere mast mast](./images/spotify-this-song tere mast mast.png)
+    ![spotify-this-song tere mast mast](./images/spotify-this-song_tere_mast_mast.png)
+- `movie-this`
+
+    ![movie-this]("./images/movie-this.png")
+- `movie-this avengers`
+
+    ![movie-this avengers]("./images/movie-this_avengers.png)
+- `do-what-it-says`
+
+    ![do-what-it-says]("./images/do-what-it-says.png)
+- `invalid command`
+
+    ![invalid]("./images/no_right_command.png")
