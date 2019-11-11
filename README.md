@@ -20,4 +20,4 @@ This is Liri Bot Project which allows user to get Movie, Spotify and Bands in th
 ## Some Examples:
 
 - `concert-this`
-    ![alt text](../images/concert-this.png)
+    ![alt text](./images/concert-this.png)
