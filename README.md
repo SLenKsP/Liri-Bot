@@ -22,3 +22,12 @@ This is Liri Bot Project which allows user to get Movie, Spotify and Bands in th
 - `concert-this`
 
     ![concert-this](./images/concert-this.png)
+- `concert-this we the kings`
+
+    ![concert-this we the kings](./images/concert-this we the kings.png)
+- `spotify-this -song`
+
+    ![spotify-this-song](./images/spotify-this-song.png)
+- `spotify-this-song tere mast mast
+    
+    ![spotify-this-song tere mast mast](./images/spotify-this-song tere mast mast.png)
