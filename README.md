@@ -25,7 +25,7 @@ This is Liri Bot Project which allows user to get Movie, Spotify and Bands in th
 - `node liri.js concert-this we the kings`
 
     ![concert-this we the kings](./images/concert-this_we_the_kings.png)
-- `node liri.js spotify-this -song`
+- `node liri.js spotify-this-song`
 
     ![spotify-this-song](./images/spotify-this-song.png)
 - `node liri.js spotify-this-song tere mast mast`
