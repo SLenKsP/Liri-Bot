@@ -28,7 +28,7 @@ This is Liri Bot Project which allows user to get Movie, Spotify and Bands in th
 - `node liri.js spotify-this -song`
 
     ![spotify-this-song](./images/spotify-this-song.png)
-- `node liri.js spotify-this-song tere mast mast1
+- `node liri.js spotify-this-song tere mast mast`
     
     ![spotify-this-song tere mast mast](./images/spotify-this-song_tere_mast_mast.png)
 - `node liri.js movie-this`
