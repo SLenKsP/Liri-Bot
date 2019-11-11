@@ -19,27 +19,27 @@ This is Liri Bot Project which allows user to get Movie, Spotify and Bands in th
 ```
 ## Some Examples:
 
-- `concert-this`
+- `node liri.js concert-this`
 
     ![concert-this](./images/concert-this.png)
-- `concert-this we the kings`
+- `node liri.js concert-this we the kings`
 
     ![concert-this we the kings](./images/concert-this_we_the_kings.png)
-- `spotify-this -song`
+- `node liri.js spotify-this -song`
 
     ![spotify-this-song](./images/spotify-this-song.png)
-- `spotify-this-song tere mast mast
+- `node liri.js spotify-this-song tere mast mast1
     
     ![spotify-this-song tere mast mast](./images/spotify-this-song_tere_mast_mast.png)
-- `movie-this`
+- `node liri.js movie-this`
 
     ![movie-this](./images/movie-this.png)
-- `movie-this avengers`
+- `node liri.js movie-this avengers`
 
     ![movie-this avengers](./images/movie-this_avengers.png)
-- `do-what-it-says`
+- `node liri.js do-what-it-says`
 
     ![do-what-it-says](./images/do-what-it-says.png)
-- `invalid command`
+- `node liri.js invalid command`
 
     ![invalid](./images/no_right_command.png)
